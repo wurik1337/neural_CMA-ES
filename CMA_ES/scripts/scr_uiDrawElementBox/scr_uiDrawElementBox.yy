@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_uiDrawElementBox",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_uiDrawElementBox",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/Scripts/GUI/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

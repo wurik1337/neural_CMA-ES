@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_smoothStep",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_smoothStep",
+  "parent":{
+    "name":"Smoothing",
+    "path":"folders/Scripts/Utility/Smoothing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
